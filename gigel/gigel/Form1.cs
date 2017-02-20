@@ -16,5 +16,10 @@ namespace gigel
         {
             InitializeComponent();
         }
+
+        public void gigi()
+        {
+            ;
+        }
     }
 }
